@@ -1,0 +1,10 @@
+/* Aplicar estilos al h1 */
+h1 {
+    color: #1b6ab4; /* Cambiar color del texto */
+    font-size: 36px; /* Tamaño de fuente */
+    font-family: Arial, sans-serif; /* Fuente */
+    text-align: center; /* Alinear al centro */
+    margin-top: 20px; /* Margen superior */
+    text-transform: uppercase; /* Convertir a mayúsculas */
+    /* Puedes agregar más estilos aquí según tus preferencias */
+}
